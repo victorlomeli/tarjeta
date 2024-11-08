@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Víctor Lomelí
+N:Lomelí;Víctor;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:victor@aloestudiografico.com
+TEL;TYPE=CELL:33 1292 7972
+ADR;TYPE=WORK:37134;Porta Fontana;Porta Catania 139;LEON;Gto.;37134;MX;Port
+ a Catania 139\n37134\nPorta Fontana\n37134 LEON\, Gto.\nMX
+ORG:ALO Estudio Gráfico
+TITLE:Diseño
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGUIeQNsgp3wPSXuCvYOC
+ qhnTIvFEQ1p7mYbIaydhZ3cLi0zjez
+CATEGORIES:myContacts
+END:VCARD
